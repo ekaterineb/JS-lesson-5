@@ -1,0 +1,15 @@
+.character-card-position {
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 1000px;
+}
+.character-card {
+    text-align: center;
+}
+.character-card img {
+    height: 100px;
+}
